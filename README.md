@@ -1,7 +1,7 @@
-# demo
+# Some simple flutter UIs
 
-A new Flutter project.
+This project presents some simple flutter UIs, feel free.
 
-## Getting Started
+## 1 SIMPLE DASHBOARD
 
-![alt text](pics/dashboard.png)
+<img src="pics/dashboard.png" alt="Dashboard" width="250">
