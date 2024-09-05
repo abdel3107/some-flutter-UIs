@@ -1,4 +1,5 @@
 import 'package:demo/demo/presentation/pages/mobileDashboard.dart';
+import 'package:demo/demo/presentation/pages/simpleLayout.dart';
 import 'package:flutter/material.dart';
 
 class MyHomePage extends StatefulWidget {
@@ -24,6 +25,12 @@ class _MyHomePageState extends State<MyHomePage> {
               name: 'Simple Dashboard',
               route: MaterialPageRoute(
                 builder: (BuildContext context) => const Mobiledashboard(),
+              ),
+            ),
+            item(
+              name: 'Simple Layout',
+              route: MaterialPageRoute(
+                builder: (BuildContext context) => const Simplelayout(),
               ),
             ),
           ],
